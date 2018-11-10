@@ -1,6 +1,6 @@
 {
   "name":     "jshint-esnext",
-  "version":  "2.7.0-3",
+  "version":  "2.7.0-4",
   "homepage": "http://jshint.com/",
   "description": "Static analysis tool for JavaScript",
 
@@ -30,15 +30,15 @@
   "main": "./src/jshint.js",
 
   "dependencies": {
-    "cli":                 "1.0.x",
-    "console-browserify":  "1.1.x",
-    "exit":                "0.1.x",
-    "htmlparser2":         "3.8.x",
-    "minimatch":           "3.0.x",
-    "shelljs":             "0.3.x",
-    "strip-json-comments": "1.0.x",
+    "cli":                 "^1.0.x",
+    "console-browserify":  "^1.1.x",
+    "exit":                "^0.1.x",
+    "htmlparser2":         "^3.8.x",
+    "minimatch":           "^3.0.x",
+    "shelljs":             "^0.3.x",
+    "strip-json-comments": "^1.0.x",
     "lodash":              "^4.17.5",
-    "underscore":          "1.6.x"
+    "underscore":          "^1.6.x"
   },
 
   "devDependencies": {
